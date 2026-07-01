@@ -1,7 +1,7 @@
 venv/
 __pycache__/
 *.pyc
-psy.db
 .env
-postgres-data/
-
+psy.db
+.git
+.gitignore
